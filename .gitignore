@@ -1,0 +1,17 @@
+# Local and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.lnk
+*.log
+*.tmp
+*.zip
+
+# Never commit local authentication or app state
+.codex/
+.claude/
+auth.json
+.credentials.json
+settings.json
